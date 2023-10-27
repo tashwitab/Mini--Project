@@ -33,7 +33,8 @@ ALGORITHM:
      
 6. End the program by returning 0 from the `main()` function.
 
-OUTPUT: ![image](https://github.com/tashwitab/Mini--Project/assets/142425346/4b857c3f-8f4a-4a5d-8182-2a132a53a2b3)
+OUTPUT: 
+![image](https://github.com/tashwitab/Mini--Project/assets/142425346/4b857c3f-8f4a-4a5d-8182-2a132a53a2b3)
 ![image](https://github.com/tashwitab/Mini--Project/assets/142425346/3001acc3-e048-4986-b678-1b35c6777632)
 ![image](https://github.com/tashwitab/Mini--Project/assets/142425346/b7f52cc8-cd93-47bc-8637-19a113786d6c)
 ![image](https://github.com/tashwitab/Mini--Project/assets/142425346/60265fad-ffe0-4794-8f62-8a0e4055de07)
